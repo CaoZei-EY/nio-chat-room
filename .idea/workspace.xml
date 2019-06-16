@@ -50,7 +50,11 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
+=======
+      <file pinned="false" current-in-tab="true">
+>>>>>>> 9faf7677c36bfbcdf909d930d8bfd55cabdcb9ec
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/zhangyucheng/NioClient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -62,10 +66,17 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/zhangyucheng/NioClientHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-252">
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/zhangyucheng/NioClientHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-711">
+>>>>>>> 9faf7677c36bfbcdf909d930d8bfd55cabdcb9ec
               <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -232,11 +243,16 @@
       <workItem from="1560619599806" duration="420000" />
       <workItem from="1560620041678" duration="1659000" />
       <workItem from="1560621818106" duration="47000" />
+<<<<<<< HEAD
       <workItem from="1560664457319" duration="6436000" />
+=======
+      <workItem from="1560664457319" duration="6177000" />
+>>>>>>> 9faf7677c36bfbcdf909d930d8bfd55cabdcb9ec
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="8562000" />
   </component>
   <component name="TodoView">
@@ -247,6 +263,9 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
+=======
+    <option name="totallyTimeSpent" value="8303000" />
+>>>>>>> 9faf7677c36bfbcdf909d930d8bfd55cabdcb9ec
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -262,14 +281,22 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" weight="0.3048193" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+=======
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+>>>>>>> 9faf7677c36bfbcdf909d930d8bfd55cabdcb9ec
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32891566" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32891566" />
+>>>>>>> 9faf7677c36bfbcdf909d930d8bfd55cabdcb9ec
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50073636" side_tool="true" weight="0.3294271" />
       <window_info anchor="right" id="Coverage" sideWeight="0.50086653" side_tool="true" weight="0.3297568" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -306,6 +333,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/nio/channels/Selector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -316,6 +344,29 @@
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Set.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/zhangyucheng/NioClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-711">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/nio/channels/Selector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="327" column="38" selection-start-line="327" selection-start-column="38" selection-end-line="327" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+>>>>>>> 9faf7677c36bfbcdf909d930d8bfd55cabdcb9ec
           <caret line="112" column="17" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
         </state>
       </provider>
@@ -334,6 +385,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
+<<<<<<< HEAD
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -347,6 +399,10 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#236#237#0" expanded="true" />
+=======
+          <folding>
+            <element signature="imports" expanded="true" />
+>>>>>>> 9faf7677c36bfbcdf909d930d8bfd55cabdcb9ec
           </folding>
         </state>
       </provider>
